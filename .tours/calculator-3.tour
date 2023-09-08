@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "3. Calculator Tour - Testcases",
+  "steps": [
+    {
+      "file": "calculator.js",
+      "description": "## Create Some Testcases for the Calculator\n\n### 1. Open Copilot Chat\n\n- `Control^` + `Command` + `I`\n\n### 2. Ask Copilot Chat to create testcases for the calculator app\n\n### 3. Accept the suggested code in to a new File",
+      "line": 1
+    },
+    {
+      "file": "index.js",
+      "description": "## Create a simple index.js file that utilizes the calculator class\n\n### Insert this comment...\n\n```javascript\n// Call the calculator class and compute some numbers\n```\n\n### Go to the end of that line and press 'Enter'",
+      "line": 1,
+      "content": "..."
+    }
+  ]
+}

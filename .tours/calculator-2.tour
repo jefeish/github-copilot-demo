@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "2. Calculator Tour - Complex Prompt",
+  "steps": [
+    {
+      "file": "calculator.js",
+      "description": "## Create a calculator app with defined features and edge cases\n\n### 1. Insert this comment...\n\n```javascript\n// A Class to calculate a set of numbers and prevent DIV by Zero \n// The operators are:  +, -, *, / and modulo\n```\n\n### 2. Go to the end of the comment line and press 'Enter'\n\n### 3. Open the Copilot Completions Panel (**`Control^`** + **`Enter`**)\n\n- Give Copilot a bit time to present you with suggestions\n- Choose one of the suggestions by clicking the `'Accept Solution'` link\n\n### 4. Save the File",
+      "line": 7
+    },
+    {
+      "file": "index.js",
+      "description": "## Create an index.js file that provides user interaction with the calculator class\n\n### 1. Insert this comment...\n\n```javascript\n// Code to receive commandline parameters (numbers, operator) for the calculator class to compute and to return the result. \n```\n\n### 2. Go to the end of that line and press 'Enter'",
+      "line": 1,
+      "content": "..."
+    }
+  ]
+}
