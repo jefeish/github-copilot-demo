@@ -44,3 +44,6 @@ We provide you with several **Code Tour** exercises, to practice Copilot interac
 - Check its limits
 - Test its knowledge
 - Topics ‘/’
+
+
+[browser](command:vs-browser.start)
