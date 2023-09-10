@@ -1,0 +1,44 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Copilot Tour",
+  "description": "A tour to create a calculator app with defined features and edge cases",
+  "steps": [
+    {
+      "file": "index.js",
+      "title": "Inline help",
+      "description": "## Create a calculator app with defined features and edge cases\n\n[Open Browser](command:vs-browser.start)\n\n### 1. Insert this comment...\n\n```javascript\n// A class to calculate a set of numbers and prevent DIV by Zero \n// The operators are:  +, -, *, / and modulo\n```\n\n### 2. Go to the end of the comment line and press 'Enter'\n\n### 3. Open the [Copilot Completions Panel](command:github.copilot.generate) (**`Control^`** + **`Enter`**)\n\n- Give Copilot a bit time to present you with suggestions\n- Choose one of the suggestions by clicking the `'Accept Solution'` link\n\n#### 3.1 If Copilot does not produce satisfying results, try using [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n- Ask Copilot Chat the same question, as the comment\n\n### 4. Save the File\n",
+      "line": 7,
+      "content": "...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n",
+      "selection": {
+        "start": {
+          "line": 12,
+          "character": 17
+        },
+        "end": {
+          "line": 13,
+          "character": 77
+        }
+      }
+    },
+    {
+      "file": "index.js",
+      "title": "Completions Panel",
+      "description": "## Create test cases for the calculator class\n\n### 1. Insert this comment...\n\n```javascript\n// Jest based test cases to exercise all the functions of the calculator class, including all edge cases\n```\n\n### 2. Go to the end of the comment line and press 'Enter'\n\n### 3. Open the [Copilot Completions Panel](command:github.copilot.generate) (**`Control^`** + **`Enter`**)\n\n- Give Copilot a bit time to present you with suggestions\n- Choose one of the suggestions by clicking the `'Accept Solution'` link\n\n#### 3.1 If Copilot does not produce satisfying results, try using [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n### 4. Save the File\n",
+      "line": 1,
+      "content": "..."
+    },
+    {
+      "file": "index.js",
+      "title": "Fix using Copilot",
+      "description": "## Create an index.js file that provides user interaction with the calculator class\n\n### 1. Insert this comment...\n\n```javascript\n// Code to receive commandline parameters (numbers, operator) for the calculator class \n// to compute and to return the result. \n```\n\n### 2. Go to the end of that line and press 'Enter'\n\n### 3. Open the [Copilot Completions Panel](command:github.copilot.generate) (**`Control^`** + **`Enter`**)\n\n- Give Copilot a bit time to present you with suggestions\n- Choose one of the suggestions by clicking the `'Accept Solution'` link\n- Check if there is some additional input validation required ?\n\n#### 3.1 If Copilot does not produce satisfying results, try using [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n### 4. Save the File",
+      "line": 2,
+      "content": "..."
+    },
+    {
+      "file": "index.js",
+      "title": "Explain using Copilot",
+      "description": "## Make the calculator app an executable\n\n### 1. Open [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`) \n\n### 2. Ask Copilot, *\"How do I make the `index.js` an executable ?\"*\n\n### 3. Follow the instructions...",
+      "content": "..."
+    }
+  ]
+}

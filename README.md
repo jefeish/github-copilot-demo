@@ -27,12 +27,20 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 
 ---
 
-### Start the Tour
+## Start the Tour
 
 We provide you with several **Code Tour** exercises, to practice Copilot interactions.
 
-Let's start with the **'Calculator Tour - Simple Prompting'**: [Start](command:codetour.startTour)
+### Copilot
 
-[cpptools](vscode:extension/ms-vscode.cpptools)
+- Inline help
+- Open the Completions Panel
+- Fix using Copilot
+- Explain using Copilot
 
-[Run It](command:workbench.action.toggleSidebarVisibility)
+### Copilot Chat
+
+- Say Hello
+- Check its limits
+- Test its knowledge
+- Topics ‘/’
