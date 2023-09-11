@@ -10,7 +10,8 @@
       "extensions": [
         "github.copilot",
         "github.copilotChat",
-        "ms-vscode-remote.remote-containers",
+        "github.copilotLab",
+        "Phu1237.vs-code",
         "vsls-contrib.codetour"
       ]}
   }
