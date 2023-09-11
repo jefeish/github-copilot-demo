@@ -9,8 +9,8 @@
       "vscode": {
       "extensions": [
         "github.copilot",
-        "github.copilot.chat",
-        "vs-browser",
+        "github.copilotChat",
+        "ms-vscode-remote.remote-containers",
         "vsls-contrib.codetour"
       ]}
   }
