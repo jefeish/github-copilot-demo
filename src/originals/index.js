@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import '@primer/css/dist/primer.css';
-// import '@primer/css/dist/primer-utilities.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
