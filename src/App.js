@@ -8,8 +8,7 @@ import Calculator from './components/Calculator.js'
 function App() {
   return (
     <div className="App">
-      <GitHubHeader />
-      <GitHubSubtitle title="Calculator Demo"/>
+      <GitHubHeader title="Calculator Demo" avatarHandle="jefeish"/>
       <div className="MainContent">
         <Calculator />
       </div>

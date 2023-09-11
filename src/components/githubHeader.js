@@ -5,7 +5,7 @@
  */
 import React from 'react';
 
-function GitHubHeader() {
+function GitHubHeader(props) {
     return (
  
         <div className="Header">
@@ -16,9 +16,12 @@ function GitHubHeader() {
               </svg>
               <span>GitHub</span>
             </a>
-          </div>
+        </div>
+        <div className="Header-item mr-0">
+          <h3>{props.title}</h3>
+        </div>
           <div className="Header-item mr-0">
-            <img className="avatar" height="20" alt="@octocat" src="https://github.com/octocat.png" width="20" />
+            <a href="https://github.com/{props.avatarHandle}"><img className="avatar" height="20" alt="@octocat" src="https://github.com/octocat.png" width="20" /></a>
           </div>
         </div>
     );
