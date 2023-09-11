@@ -4,13 +4,11 @@
 # Github Copilot Demo
 A demo to operate GitHub Copilot in Visual Studio Code
 
-## A React Calculator App to Demonstrate Copilot & Copilot Chat
+We use a React Calculator App to Demonstrate Copilot & Copilot Chat
 
-### Introduction
+## Introduction
 
-#### Overview
-
-This exercise presents you with a React calculator app to practice Copilot and Copilot Chat.
+### Overview
 
 Our goal is to **acquaint you with Copilot's functionalities within VS Code** and demonstrate diverse ways to interact effectively with Copilot.
 
@@ -31,7 +29,7 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 
 We provide you with several **Code Tour** exercises, to practice Copilot interactions.
 
-> Note: This is an IDE based demo, we recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a Devcontainer configuration that provides all the required IDE components (VS Code).
+> **Note:** This is an IDE based demo, we recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a Devcontainer configuration that provides all the required IDE components (VS Code).
 
 ---
 
@@ -44,7 +42,8 @@ We provide you with several **Code Tour** exercises, to practice Copilot interac
     npm start
     ```
 
-- Open a Browser window (http://localhost:3000)
+- Open a browser window (http://localhost:3000)
+    > (Command VS Browser: Start Browser)
 
 
     ![calculator](docs/images/calculator.png)
@@ -57,16 +56,15 @@ We provide you with several **Code Tour** exercises, to practice Copilot interac
 
 ---
 
-#### Note: Exercise items
+### Note: Exercise items
 
-    |Copilot|Copilot Chat|
-    |---|---|
-    |Inline help|Say Hello|
-    |Open the Completions Panel|Check its limits|
-    |Fix using Copilot|Test its knowledge|
-    |Explain using Copilot|Topics ‘/’|
-
-
+|Copilot|Copilot Chat|
+|---|---|
+|Inline help|Say Hello|
+|Open the Completions Panel|Check its limits|
+|Fix using Copilot|Test its knowledge|
+|Explain using Copilot|Topics ‘/’|
 
 
-[browser](command:vs-browser.start)
+
+
