@@ -31,19 +31,42 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 
 We provide you with several **Code Tour** exercises, to practice Copilot interactions.
 
-### Copilot
+> Note: This is an IDE based demo, we recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a Devcontainer configuration that provides all the required IDE components (VS Code).
 
-- Inline help
-- Open the Completions Panel
-- Fix using Copilot
-- Explain using Copilot
+---
 
-### Copilot Chat
+### 1. Step
 
-- Say Hello
-- Check its limits
-- Test its knowledge
-- Topics ‘/’
+- Start the `Calculator` App
+
+    ```bash
+    npm install
+    npm start
+    ```
+
+- Open a Browser window (http://localhost:3000)
+
+
+    ![calculator](docs/images/calculator.png)
+
+---
+
+### 2. Step
+
+- Start the tour ...
+
+---
+
+#### Note: Exercise items
+
+    |Copilot|Copilot Chat|
+    |---|---|
+    |Inline help|Say Hello|
+    |Open the Completions Panel|Check its limits|
+    |Fix using Copilot|Test its knowledge|
+    |Explain using Copilot|Topics ‘/’|
+
+
 
 
 [browser](command:vs-browser.start)

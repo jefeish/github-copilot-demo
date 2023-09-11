@@ -21,7 +21,7 @@ function GitHubHeader(props) {
           <h3>{props.title}</h3>
         </div>
           <div className="Header-item mr-0">
-            <a href="https://github.com/{props.avatarHandle}"><img className="avatar" height="20" alt="@octocat" src="https://github.com/octocat.png" width="20" /></a>
+            <a href={`https://github.com/${props.avatar}`}><img className="avatar" height="20" alt="@octocat" src="https://github.com/octocat.png" width="20" /></a>
           </div>
         </div>
     );
