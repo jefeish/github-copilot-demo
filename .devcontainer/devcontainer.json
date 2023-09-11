@@ -11,7 +11,7 @@
         "github.copilot",
         "github.copilotChat",
         "github.copilotLab",
-        "Phu1237.vs-code",
+        "vscode.vs-browser",
         "vsls-contrib.codetour"
       ]}
   }
