@@ -51,7 +51,6 @@ function Calculator() {
         // calculate the result
         if (char === '=') {
             number2 = parseFloat(displayValue);
-            //setDisplayValue(number1 + ',' + operator + ',' + number2);
 
             switch (operator) {
                 case '+':

@@ -1,15 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react'
-import '@primer/css/dist/primer.css';
+import GitHubHeader from './components/githubHeader.js'
+import GitHubSubtitle from './components/GitHubSubtitle.js'
 import Calculator from './components/Calculator.js'
 
 function App() {
   return (
     <div className="App">
-      <header>
-        <h1>My App</h1>
-      </header>
+      <GitHubHeader />
+      <GitHubSubtitle title="Calculator Demo"/>
       <div className="MainContent">
         <Calculator />
       </div>

@@ -4,13 +4,13 @@
 # Github Copilot Demo
 A demo to operate GitHub Copilot in Visual Studio Code
 
-## Build a Calculator App with Copilot & Copilot Chat
+## A React Calculator App to Demonstrate Copilot & Copilot Chat
 
 ### Introduction
 
 #### Overview
 
-This exercise guides you through the process of creating a calculator app using Copilot and Copilot Chat. **We will delve into various Prompt techniques for generating code suggestions**.
+This exercise presents you with a React calculator app to practice Copilot and Copilot Chat.
 
 Our goal is to **acquaint you with Copilot's functionalities within VS Code** and demonstrate diverse ways to interact effectively with Copilot.
 
