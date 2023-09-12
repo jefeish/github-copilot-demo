@@ -10,7 +10,7 @@
       "extensions": [
         "github.copilot",
         "github.copilotChat",
-        "github.copilotLab",
+        "github.copilotLabs",
         "vscode.vs-browser",
         "vsls-contrib.codetour"
       ]
