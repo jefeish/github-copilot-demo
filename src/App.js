@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <GitHubHeader title="Calculator Demo" avatar="jefeish"/>
       <div className="MainContent">
-        <Calculator />
+      {/* Calculator */}
       </div>
     </div>
   );
