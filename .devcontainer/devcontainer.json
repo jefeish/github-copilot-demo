@@ -9,10 +9,9 @@
     "vscode": {
       "extensions": [
         "github.copilot",
-        "github.copilotChat",
-        "github.copilotLabs",
-        "vscode.vs-browser",
-        "vsls-contrib.codetour"
+        "vsls-contrib.codetour",
+        "GitHub.copilot-chat",
+        "Phu1237.vs-browser"
       ]
     }
   }
